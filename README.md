@@ -91,5 +91,5 @@ Ensure you have the following installed:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Live](https://dynamic-table-with-dropdowns.netlify.app/).
 
